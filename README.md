@@ -4,7 +4,7 @@ A collection of skills for AI coding agents.
 
 ## Skills
 
-- **[gdb](skills/gdb)** — Non-blocking GDB debugging. Trace live C/C++/Rust processes without the agent ever blocking on a breakpoint.
+- **[gdb](skills/gdb)** — Non-blocking debugging with the GNU Debugger (GDB). Trace live C/C++/Rust processes without the agent ever blocking on a breakpoint.
 
 ## Supported Agents
 

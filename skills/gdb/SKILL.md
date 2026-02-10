@@ -1,9 +1,9 @@
 ---
 name: gdb
-description: "Debug and trace C/C++/Rust programs with GDB without blocking the agent. Use when you need to set tracepoints, inspect variables, or monitor a running process while staying responsive to the user."
+description: "Debug and trace C/C++/Rust programs with the GNU Debugger (GDB) without blocking the agent. Use when you need to set tracepoints, inspect variables, or monitor a running process while staying responsive to the user."
 ---
 
-# GDB Skill
+# GNU Debugger (GDB) Skill
 
 Non-blocking GDB debugging for AI agents. Trace live processes, set conditional
 breakpoints, and inspect program state while the agent stays responsive and can
